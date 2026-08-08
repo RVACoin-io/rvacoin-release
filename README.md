@@ -2,7 +2,7 @@
 
 This repository provides official, publicly downloadable releases of RVACoin Core.
 
-Release packages contain the RVACoin Qt desktop wallet for supported platforms. Download the latest version from the [Releases](https://github.com/RVACoin-io/rvacoin-release/releases) page.
+Releases contain only the RVACoin Core executables for supported platforms: Qt, daemon, CLI, and transaction utility. Download the latest version from the [Releases](https://github.com/RVACoin-io/rvacoin-release/releases) page.
 
 For project information and support, visit [rvacoin.io](https://rvacoin.io) or contact [support@rvacoin.io](mailto:support@rvacoin.io).
 
